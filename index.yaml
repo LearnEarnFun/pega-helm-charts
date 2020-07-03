@@ -1,0 +1,263 @@
+apiVersion: v1
+entries:
+  addons:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-18T21:13:25.428712144Z"
+    description: A Helm chart for Kubernetes
+    digest: a3df0677413b9c5fdc310fa746acbee26876d9e8b424a09e0750b4ca79b37856
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.8.tgz
+    version: 1.2.8
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-11T19:27:55.339399767Z"
+    description: A Helm chart for Kubernetes
+    digest: 6a5c1478b12219f191bb648de5c8e8e3527e6ca745c01a702a3acc15463553b3
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.7.tgz
+    version: 1.2.7
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-02T21:14:09.678614954Z"
+    description: A Helm chart for Kubernetes
+    digest: d00d8f5ad9b0e60967eff9ccb8c52bcd0a78053d84e168dd16da50680e2690e0
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.6.tgz
+    version: 1.2.6
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-02-05T18:38:51.100162328Z"
+    description: A Helm chart for Kubernetes
+    digest: 4669103f91b21967a2d26f392db23766c6a1a7c52ea6c5338462ba4eea36d96d
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.5.tgz
+    version: 1.2.5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-09T18:04:39.751510893Z"
+    description: A Helm chart for Kubernetes
+    digest: 26316e3650f2e288d4fa0251d2106376741809f1b3117cd578a4b7106a89874a
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.4.tgz
+    version: 1.2.4
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-12T15:43:28.157449294Z"
+    description: A Helm chart for Kubernetes
+    digest: 009795eda6f8b3e3920ba41ff4104498a1152720849289805b902adbf705db10
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.3.tgz
+    version: 1.2.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-02T13:32:26.601691601Z"
+    description: A Helm chart for Kubernetes
+    digest: 3756e2f5d190d40de8345bf3cb14074a97530bb31ffcbbcf7991041365a81a03
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-14T16:17:38.484013102Z"
+    description: A Helm chart for Kubernetes
+    digest: f443985bd8fac4a0f399f73c5f47bfabe1af91595705e17e9514a462622ecb37
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-07T19:50:42.297449614Z"
+    description: A Helm chart for Kubernetes
+    digest: ab8a4971c11085a9be27410ae364e0ac4894d072270bbf5f0878dfcf8168c805
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-11T14:35:05.726492061Z"
+    description: A Helm chart for Kubernetes
+    digest: 6a6e6795d9837840606389b213e6fed038e3311aa9b93dd8f7f0a35f13e3d552
+    name: addons
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/addons-1.0.4.tgz
+    version: 1.0.4
+  pega:
+  - created: "2020-05-18T21:13:25.431240252Z"
+    description: Pega installation on kubernetes
+    digest: 5f26f4860b713ae520030e29ef66cbf68e44d14064ea5494a39c9133e67a732d
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.8.tgz
+    version: 1.2.8
+  - created: "2020-03-11T19:27:55.341792113Z"
+    description: Pega installation on kubernetes
+    digest: 39f7aea04366c76b6e562dc281f6a0eff0addba17f15eadab896c5c9849e609a
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.7.tgz
+    version: 1.2.7
+  - created: "2020-03-02T21:14:09.680997778Z"
+    description: Pega installation on kubernetes
+    digest: ebb6e39b1c6e48b9c8bb0887b95e5f711f3eb19d3ae401e5c639a8b8884b8200
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.6.tgz
+    version: 1.2.6
+  - created: "2020-02-05T18:38:51.102749719Z"
+    description: Pega installation on kubernetes
+    digest: 52a59ec8ee9722b43568c3d1063911f1efea638482571bda4414c20da2ae10e5
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.5.tgz
+    version: 1.2.5
+  - created: "2020-01-09T18:04:39.753878236Z"
+    description: Pega installation on kubernetes
+    digest: e6348720e5dc583dda6b285dff08babe5b254d41fdf32b857b261192bb536c8c
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.4.tgz
+    version: 1.2.4
+  - created: "2019-12-12T15:43:28.160343302Z"
+    description: Pega installation on kubernetes
+    digest: eecc1b610064c0d604167a1d37daf2ecc4c2cbdb8f2c5ab25d2c3dbfa082f195
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.3.tgz
+    version: 1.2.3
+  - created: "2019-12-02T13:32:26.603890805Z"
+    description: Pega installation on kubernetes
+    digest: 8458f57dfa4e04397c0fa0e4eaf4a9f7cff191cf7c4777ec682c898438b84988
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.2.tgz
+    version: 1.2.2
+  - created: "2019-11-14T16:17:38.486601971Z"
+    description: Pega installation on kubernetes
+    digest: 26bf35b2501de962f10b3eaca2cb60ceaad8d7e12daed0ea8dc2b49095406260
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.1.tgz
+    version: 1.2.1
+  - created: "2019-11-07T19:50:42.300064588Z"
+    description: Pega installation on kubernetes
+    digest: ad7c7d84969a56d54a1c0cd9c58640db1e271443087a80a5e1c485de58a5d675
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.2.0.tgz
+    version: 1.2.0
+  - created: "2019-10-11T14:35:05.729572041Z"
+    description: Pega installation on kubernetes
+    digest: cdc24cfdfdff96135502f92b3c0d4f9a7e3d53d433fe2f9c39601c4f32343573
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.0.4.tgz
+    version: 1.0.4
+  - created: "2019-07-24T09:22:11.60305148Z"
+    description: Pega installation on kubernetes
+    digest: f947be6f16db4e04ff0147d619dc65ee81e694458b928b2190c01d719acaa5a2
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.0.3.tgz
+    version: 1.0.3
+  - created: "2019-07-24T09:22:11.60305148Z"
+    description: Pega installation on kubernetes
+    digest: f947be6f16db4e04ff0147d619dc65ee81e694458b928b2190c01d719acaa5a2
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.0.2.tgz
+    version: 1.0.2
+  - created: "2019-06-22T09:22:11.60305148Z"
+    description: Pega installation on kubernetes
+    digest: f947be6f16db4e04ff0147d619dc65ee81e694458b928b2190c01d719acaa5a2
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.0.1.tgz
+    version: 1.0.1
+  - created: "2019-06-18T09:22:11.60305148Z"
+    description: Pega installation on kubernetes
+    digest: f947be6f16db4e04ff0147d619dc65ee81e694458b928b2190c01d719acaa5a2
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://dl.bintray.com/pegasystems/pega-helm-charts/pega-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-05-18T21:13:25.422039321Z"
